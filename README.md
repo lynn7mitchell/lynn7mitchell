@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lynn Mitchell</h1>
 - 🔭 I’m currently working on [FEED Social Media App](http://feed-social-media.herokuapp.com/)
 
-- 🌱 I’m currently learning **GO Lang**
+- 🌱 I’m currently learning **Vue & Python**
 
-- 🤝 I’m looking for help with **my fist developer position.**
-
-- 👨‍💻 All of my projects are available at [https://codemitchell.com/](https://codemitchell.com/)
+- 👨‍💻 My main projects are available at [https://codemitchell.com/](https://codemitchell.com/)
 
 - 📫 How to reach me **lynn7mitchell@gmail.com**
 
