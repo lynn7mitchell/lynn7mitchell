@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **lynn7mitchell@gmail.com**
 
-- 📄 Resume [https://codemitchell.com/Resume.pdf](https://codemitchell.com/Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
